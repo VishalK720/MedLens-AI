@@ -59,8 +59,6 @@
 
 ---
 
-## 💻 How to Run Locally
-```bash
 # Clone this repo
 git clone https://github.com/YOUR_USERNAME/MedLens-AI.git
 
@@ -73,5 +71,10 @@ npm install
 # Start development server
 npm run dev
 
+🧑‍💻 Author
 
+**Vishal Kumar**  
+B.Tech CSE (AI/ML) | Bennett University  
+📍 Greater Noida, India  
+🔗 [LinkedIn](#) | [GitHub](https://github.com/VishalK720)
 
