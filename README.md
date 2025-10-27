@@ -33,7 +33,58 @@ Python, OpenAI GPT APIs, LangChain, Streamlit, Flask, Prompt Engineering
 Here are some previews of the Startup Idea Generator & Validator in action 👇
 
 ![Startup Idea Generator Screenshot 1](Screenshot%202025-10-27%20111920.png)
-![Startup Idea Generator Screenshot 2](Screenshot%202025-10-27%20112203.png)
+![Startup Idea Generator Screenshot 2](Screenshot%202025-10-27%20112203.png) 
+
+
+2. InsightFlow – AI Research Dashboard (SaaS)  
+**Smart research management platform for uploading and analyzing files (PDF, images, videos) with AI-powered insights.**
+
+![InsightFlow Screenshot](./screenshot2.png)
+
+**🔹 Description:**  
+InsightFlow is an AI-powered SaaS dashboard that allows users to upload and analyze research documents effortlessly.  
+It automatically extracts insights, summaries, and trends — reducing manual research time by 70%.
+
+**🔹 Tech Stack:**  
+- React.js, Tailwind CSS  
+- Node.js, Express  
+- MongoDB  
+- OpenAI GPT APIs  
+- Firebase / AWS (Cloud Storage)  
+
+**🔹 Key Features:**  
+- Upload PDFs, images, or videos for instant AI-powered insights  
+- Get summaries, key points, and analytics visually  
+- Real-time dashboard for tracking research files  
+- Secure SaaS platform with authentication and cloud storage  
+
+**🔹 Impact:**  
+- Reduced manual research effort by 70%  
+- Enhanced productivity for students, researchers, and professionals  
+- Demonstrated a complete AI + SaaS system integration  
+
+---
+
+## 🧰 Skills & Tools
+
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Streamlit, React.js, Flask, Node.js, Express  
+**AI Tools:** OpenAI API, LangChain, HuggingFace  
+**Databases:** MongoDB, Firebase, MySQL  
+**Other Tools:** Git, VS Code, Postman, Canva, Figma  
+
+---
+
+## 🌍 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link-here)  
+- 🌐 [Portfolio Website](https://your-website-link.com)  
+- 🐙 [GitHub](https://github.com/VishalK720)  
+- ✉️ **Email:** yourname@email.com  
+
+---
+
+⭐ *“Building AI tools that turn ideas into impactful solutions.”* 
 
 ---
 
