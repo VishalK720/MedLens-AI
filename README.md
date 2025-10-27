@@ -26,3 +26,18 @@ Python, OpenAI GPT APIs, LangChain, Streamlit, Flask, Prompt Engineering
 4. Enter inputs and explore generated startup ideas
 
 **Author:** Vishal Kumar
+---
+
+## 📸 Project Demo
+
+Here are some previews of the Startup Idea Generator & Validator in action 👇
+
+![Startup Idea Generator Screenshot 1](Screenshot%202025-10-27%20111920.png)
+![Startup Idea Generator Screenshot 2](Screenshot%202025-10-27%20112203.png)
+
+---
+
+## 🧠 About the Project
+This project was developed to help aspiring founders quickly generate and validate startup ideas using AI reasoning.  
+It combines LLMs, market analysis, and investor validation insights to bridge the gap between **ideation and execution**.
+
