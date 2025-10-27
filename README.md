@@ -60,7 +60,7 @@
 ---
 
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/MedLens-AI.git
+git clone https://https://github.com/YOUR_USERNAME/MedLens-AI.git
 
 # Go into the folder
 cd MedLens-AI
